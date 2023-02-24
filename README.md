@@ -1,2 +1,2 @@
 # Página-de-Tribute
- Primeiro repositorio versionada
+ Primeiro repositorio versionado
