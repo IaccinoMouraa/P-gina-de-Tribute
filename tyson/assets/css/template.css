@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    background-color:#FFFF00;
 }
 header {
     display: flex;
@@ -34,4 +33,13 @@ header {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
-}    
+    object-fit: cover;
+}   
+
+.flexColumn {
+    display: flex;
+    flex-direction: column;
+}
+footer {
+    text-align: right;
+} 
