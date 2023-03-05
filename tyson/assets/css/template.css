@@ -1,4 +1,38 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: Arial;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 450px;
+    height: 150px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.text-title {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+    color:#727272;
+}
+#banner {
+    background-image: url('../css/images/tyson.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+    margin-top: 30px;
+}
+.banner_readline {
+    display: flex;
+    justify-content: center;
+    color:aliceblue
 }
