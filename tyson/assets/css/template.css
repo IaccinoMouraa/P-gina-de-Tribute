@@ -41,6 +41,19 @@ header {
 .banner_headline {
     display: flex;
     margin-top: 80%;
-    height: 100px;
-    background-color: red;
+    height: 120px;
+    background-color: rgb(238, 231, 231);
+}
+.text {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+nav ul,
+li {
+    text-decoration: underline;
+    text-transform:none;
+    justify-content: center;
+    margin-top: 5px;
 }
