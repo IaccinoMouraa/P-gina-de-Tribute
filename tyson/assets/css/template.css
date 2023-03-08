@@ -16,13 +16,16 @@ header {
     justify-content: center;
     margin-top: 20px;
     font-size: 20px;
+    background-color: rgb(212, 204, 192);
+    border: 2px dashed #00ff ;
 }
-.text-title {
+.text_title {
     display: flex;
     justify-content: center;
     margin-top: 20px;
     text-transform: uppercase;
     color:#727272;
+    border:1px solid #0000;
 }
 
 #banner {
@@ -43,6 +46,7 @@ header {
     margin-top: 80%;
     height: 120px;
     background-color: rgb(238, 231, 231);
+    border: 5px solid #00ff;
 }
 .text {
     display: flex;
